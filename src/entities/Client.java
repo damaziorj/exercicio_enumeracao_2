@@ -11,7 +11,7 @@ public class Client {
 	
 	SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 	
-	private Client() {
+	public Client() {
 		
 	}
 
